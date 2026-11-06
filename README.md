@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Team Cherry
 
-
+OIP.webp
 
 (source de l'image : ...)
 
