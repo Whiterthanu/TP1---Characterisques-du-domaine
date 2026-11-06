@@ -49,15 +49,15 @@
 
 - Types de produits et de services : Jeux vidéos
 - Étapes de production : Idéation/recherche: Concept et mécaniques de jeu, Public cible et analyse du marché et Prototype rapide pour valider le plaisir de jeu. Préproduction: Document de conception (game design document), Direction artistique et Prototype jouable et planification. Production: Programmation des mécaniques, Création des personnages, décors et sons et Conception des niveaux (level design). Postproduction: Tests (assurance qualité) et correction des bogues, Optimisation et équilibrage et Certification et lancement Opération: Correctifs et mises à jour, Contenu additionnel et Gestion de la communauté.
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Type d'emploi visé : Programmeur
+- Étapes pour obtenir cet emploi : Je vais créer un portfolio de toutes mes expériences, puis après que c'est completer, j’irai en stage.
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je serais un travailleur dévoué qui est aussi passionné par son travail.
+- Ce qui m'a surpris : J'ai découvert que j'étais plutôt bon dans les situations logiques.
+- Ma force principale et la faiblesse à travailler : Être organisé sera définitivement un atout précieux. Je dois travailler à être plus précis au lieu de rester bloqué sur un problème pendant longtemps.
+- Mon action d'ici la fin de la session : Je vais travailler davantage sur la précision pour rendre mon travail plus appréciable.
 
 ## Ma capsule
 
