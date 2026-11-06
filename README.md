@@ -61,4 +61,4 @@
 
 ## Ma capsule
 
-<img alt="Screenshot OBS" src="../Screenshot-OBS">
+<img alt="Screenshot OBS" src="/Screenshot-OBS">
