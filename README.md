@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Team Cherry
 
-<img width="659" height="851" alt="Team Cherry" src="https://tse3.mm.bing.net/th/id/OIP.-Q3Aad6VD_n0c58lYdYzVwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
+<img width="600" height="600" alt="Team Cherry" src="https://tse3.mm.bing.net/th/id/OIP.-Q3Aad6VD_n0c58lYdYzVwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
 
 (source de l'image : ...)
 
