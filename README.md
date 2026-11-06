@@ -48,7 +48,7 @@
 (source de l'image : https://tse3.mm.bing.net/th/id/OIP.-Q3Aad6VD_n0c58lYdYzVwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 - Types de produits et de services : Jeux vidéos
-- Étapes de production : Idéation/recherche: Concept et mécaniques de jeu, Public cible et analyse du marché et Prototype rapide pour valider le plaisir de jeu. Préproduction: Document de conception (game design document), Direction artistique et Prototype jouable et planification. Production: Programmation des mécaniques, Création des personnages, décors et sons et Conception des niveaux (level design). Postproduction: Tests (assurance qualité) et correction des bogues, Optimisation et équilibrage et Certification et lancement Opération: Correctifs et mises à jour, Contenu additionnel et Gestion de la communauté
+- Étapes de production : Idéation/recherche: Concept et mécaniques de jeu, Public cible et analyse du marché et Prototype rapide pour valider le plaisir de jeu. Préproduction: Document de conception (game design document), Direction artistique et Prototype jouable et planification. Production: Programmation des mécaniques, Création des personnages, décors et sons et Conception des niveaux (level design). Postproduction: Tests (assurance qualité) et correction des bogues, Optimisation et équilibrage et Certification et lancement Opération: Correctifs et mises à jour, Contenu additionnel et Gestion de la communauté.
 - Type d'emploi visé : ...
 - Étapes pour obtenir cet emploi : ...
 
