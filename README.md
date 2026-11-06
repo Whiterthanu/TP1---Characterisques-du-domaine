@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Team Cherry
 
-<img width="600" height="500" alt="Team Cherry" src="https://tse3.mm.bing.net/th/id/OIP.-Q3Aad6VD_n0c58lYdYzVwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
+<img width="600" height="450" alt="Team Cherry" src="https://tse3.mm.bing.net/th/id/OIP.-Q3Aad6VD_n0c58lYdYzVwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
 
 (source de l'image : https://tse3.mm.bing.net/th/id/OIP.-Q3Aad6VD_n0c58lYdYzVwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
@@ -61,4 +61,4 @@
 
 ## Ma capsule
 
-<img alt="Screenshot OBS" src="/Screenshot-OBS.png">
+<img alt="Screenshot OBS" src="./Screenshot-OBS.png">
